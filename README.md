@@ -1,2 +1,2 @@
 # JDMS
-Jose De Mello Saude Session 2 
+Clustering Models for JDMS 
